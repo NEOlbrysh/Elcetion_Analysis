@@ -1,4 +1,55 @@
 # Election_Analysis
+## Overview of Election Audit: 
+
+A Colorado election commission requests an election audit and analysis of a recent local congressional election. The expected results should include:
+- The total number of votes cast.
+- A complete list of candidates who received votes.
+- The total number of votes for each candidate received.
+-	The percentage of votes each candidate won.
+-	The winner of the election based on popular vote.
+-	The total voter turnout for each county.
+-	The percentage of votes from each county.
+-	The county with the highest turnout.
+
+
+
+## Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+- How many votes were cast in this congressional election?
+There were 369,711 total votes cast in the congressional election. 
+
+
+
+
+
+- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+The breakdown of the total votes per county lists Denver with 82.8% of the popular vote achieving a total of 306,055 votes. The county of Jefferson received 10.5% of the popular vote with 38,855 votes while Arapahoe received 6.7% of the popular vote with a total of 24,801 votes.
+
+- Which county had the largest number of votes?
+Denver produced 82.8% of voters, for a total of 306,055 voters.
+
+- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+Jefferson produced 10.5% of voters, for a total of 38,855 voters.
+Denver produced 82.8% of voters, for a total of 306,055 voters.
+Arapahoe produced 6.7% of voters, for a total of 24,801 voters.
+
+- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+Election- Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes.
+
+
+
+
+
+
+
+## Audit Summary: 
+
+Expanding the Election Audit to include voter turnout by county with candidates’ results has been a great way to take advantage of the convenience a script provides. However, it might be interesting to see the results expanded by adding an additional "if" statement to the current code, the number of candidates per county could be tally. This way we could see which candidate won which county, providing deeper insight into the voting patterns within a given county. 
+This added insight can be a guide for future election performance, so that you may properly allocate resources where turnout is low, or demographics are hard to reach.
+A little time invested into customizing the script can provide on-demand analysis for years to come.
+Adding additional functionality to the Python script used to develop this audit we could also find voter turnout by polling location. A polling location column would need to be added to the election results csv file, the ability to drill deeply into polling locations would provide information on voter volume and may assist in planning future voting locations based on the analysis. 
+Similarly, if this were a federal election, we could use the same script and change the county to states.
+In short, no matter the number of candidates or counties, the script used to perform the Election Audit can be a valuable resource for the board.
+
 
 
 
