@@ -13,30 +13,41 @@ A Colorado election commission requests an election audit and analysis of a rece
 
 
 
-## Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+## Election-Audit Results:
 - How many votes were cast in this congressional election?
+
 There were 369,711 total votes cast in the congressional election. 
 
-
+![2022-05-22 (17)](https://user-images.githubusercontent.com/103701561/169713705-84e0e315-22e5-405d-bf6d-d333a3673bc3.png)
 
 
 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 The breakdown of the total votes per county lists Denver with 82.8% of the popular vote achieving a total of 306,055 votes. The county of Jefferson received 10.5% of the popular vote with 38,855 votes while Arapahoe received 6.7% of the popular vote with a total of 24,801 votes.
 
+
 - Which county had the largest number of votes?
 Denver produced 82.8% of voters, for a total of 306,055 voters.
+
+
 
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 Jefferson produced 10.5% of voters, for a total of 38,855 voters.
 Denver produced 82.8% of voters, for a total of 306,055 voters.
 Arapahoe produced 6.7% of voters, for a total of 24,801 voters.
 
+
+
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 Election- Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes.
 
 
-
+![2022-05-22 (7)](https://user-images.githubusercontent.com/103701561/169712769-ed32848a-5b30-4516-8995-2cd736a97460.png)
+![2022-05-22 (2)](https://user-images.githubusercontent.com/103701561/169712781-3313b870-bc6b-4151-b54a-7ea26bbfa185.png)
+![2022-05-22 (12)](https://user-images.githubusercontent.com/103701561/169712784-a62cc110-317b-4e2e-a5af-bced5986c425.png)
+![2022-05-22 (10)](https://user-images.githubusercontent.com/103701561/169712788-02efe04e-1627-4b35-bb51-efda3b16310b.png)
+![2022-05-22 (9)](https://user-images.githubusercontent.com/103701561/169712789-557a7bdc-2ca3-483f-92b7-1b3bae0de022.png)
+![2022-05-22 (8)](https://user-images.githubusercontent.com/103701561/169712792-2612ac5b-ed2f-4e91-8a90-55449d8df843.png)
 
 
 
@@ -51,47 +62,3 @@ Similarly, if this were a federal election, we could use the same script and cha
 In short, no matter the number of candidates or counties, the script used to perform the Election Audit can be a valuable resource for the board.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![2022-05-22 (7)](https://user-images.githubusercontent.com/103701561/169712769-ed32848a-5b30-4516-8995-2cd736a97460.png)
-![2022-05-22 (2)](https://user-images.githubusercontent.com/103701561/169712781-3313b870-bc6b-4151-b54a-7ea26bbfa185.png)
-![2022-05-22 (12)](https://user-images.githubusercontent.com/103701561/169712784-a62cc110-317b-4e2e-a5af-bced5986c425.png)
-![2022-05-22 (10)](https://user-images.githubusercontent.com/103701561/169712788-02efe04e-1627-4b35-bb51-efda3b16310b.png)
-![2022-05-22 (9)](https://user-images.githubusercontent.com/103701561/169712789-557a7bdc-2ca3-483f-92b7-1b3bae0de022.png)
-![2022-05-22 (8)](https://user-images.githubusercontent.com/103701561/169712792-2612ac5b-ed2f-4e91-8a90-55449d8df843.png)
-
-
-
-
-![2022-05-22 (17)](https://user-images.githubusercontent.com/103701561/169713705-84e0e315-22e5-405d-bf6d-d333a3673bc3.png)
